@@ -1,4 +1,4 @@
-# Aggregation and Grouping Python Data
+# Python - Aggregation and Grouping Data
 
 In these exercises we will show the most important functions for data aggregation in the Pandas library:
 - groupby()
